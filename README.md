@@ -18,3 +18,4 @@ A shopping site similar to Amazon
 - Users can have a checkout page
 - Users can pay the order through paypal
 
+Screenshots of the website are included
