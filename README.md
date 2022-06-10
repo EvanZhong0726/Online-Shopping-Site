@@ -3,7 +3,7 @@ A shopping site similar to Amazon
 
 - Front end: React   
 - Backend: Django
-- Database: Postgres SQL
+- Database: SQLite
 
 #### Functionality:
 - Full featured shopping cart, includes product price, pictures, etc.
